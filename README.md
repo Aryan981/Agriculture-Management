@@ -24,7 +24,7 @@ Farm Management System using MySQL, Php and Bootstrap
 6. In phpmyadmin page, create a new database from the left panel and name it as 'fms'
 7. Import the file 'fms.sql' inside your newly created database and click ok.
 8. Open a new tab and type 'localhost/foldername' in the url of your browser
-9. Hurray! That's it!
+9. Hurray! That's it!!
     
 ### SOFTWARES USED
   - XAMPP was installed on the Ubuntu 19.04 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/fms
