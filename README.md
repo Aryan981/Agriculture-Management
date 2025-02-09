@@ -17,7 +17,7 @@ Farm Management System using MySQL, Php and Bootstrap
 
 ## Steps to run the project in  your machine
 1. Download and install XAMPP in your machine
-2. Clone or download the repository
+2. Clone or download the repositor
 3. Extract all the files and move it to the 'htdocs' folder of your XAMPP directory.
 4. Start the Apache and Mysql in your XAMPP control panel.
 5. Open your web browser and type 'localhost/phpmyadmin'
