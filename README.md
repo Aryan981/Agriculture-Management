@@ -1,4 +1,4 @@
-# Farm Management System
+# Farm Management System.
 Farm Management System using MySQL, Php and Bootstrap
 
 ## Prerequisites
