@@ -15,7 +15,7 @@ Farm Management System using MySQL, Php and Bootstrap
 6. MySQL (An RDBMS that uses SQL)
 7. TCPDF (to generate PDFs)
 
-## Steps to run the project in your machine
+## Steps to run the project in  your machine
 1. Download and install XAMPP in your machine
 2. Clone or download the repository
 3. Extract all the files and move it to the 'htdocs' folder of your XAMPP directory.
